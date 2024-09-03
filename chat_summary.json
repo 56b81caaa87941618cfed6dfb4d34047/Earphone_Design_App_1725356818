@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Can you describe where you want the 'Mouse' button to be placed in the app?\", \"option1\": \"Top of the screen\", \"option2\": \"Bottom of the screen\"}, {\"question 2\": \"What style do you prefer for the 'Mouse' button? (e.g., color, size)\", \"option1\": \"Large and bright color\", \"option2\": \"Small and neutral color\"}], \"input_token_count\": 313, \"output_token_count\": 98, \"time_taken\": \"0:00:01.472923\"}",
+        "timestamp": "03092024094911",
+        "message_id": "guest03092024094905"
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I\u2019m adding a button with the text 'Mouse'.",
         "timestamp": "03092024094907",
