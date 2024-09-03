@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, I\u2019m adding a button with the text 'Mouse'.",
+        "timestamp": "03092024094907",
+        "message_id": "guest03092024094905"
+    },
+    {
         "role": "user",
         "content": "add a button with text Mouse",
         "timestamp": "03092024094906",
