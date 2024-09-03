@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a Free button for easy access\", \"checked\": true}, {\"feature\": \"Implement button hover effects\", \"checked\": false}, {\"feature\": \"Include tooltips on buttons for guidance\", \"checked\": false}, {\"feature\": \"Add animations when buttons are clicked\", \"checked\": false}, {\"feature\": \"Create a color palette for buttons\", \"checked\": true}], \"input_token_count\": 244, \"output_token_count\": 91, \"time_taken\": \"0:00:01.375946\"}",
+        "timestamp": "03092024094755",
+        "message_id": "guest03092024094746"
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where exactly do you want the button 'Free' to be placed in the app?\", \"option1\": \"At the top of the main screen\", \"option2\": \"In the footer section\"}, {\"question 2\": \"What style do you envision for the button? Should it be a solid color, outlined, or something else?\", \"option1\": \"Solid color\", \"option2\": \"Outlined button\"}], \"input_token_count\": 290, \"output_token_count\": 99, \"time_taken\": \"0:00:01.795680\"}",
         "timestamp": "03092024094752",
