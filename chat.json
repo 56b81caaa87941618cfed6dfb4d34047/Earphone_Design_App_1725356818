@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button with the text 'Mouse'\", \"checked\": true}, {\"feature\": \"Add a button with the text 'Free'\", \"checked\": true}, {\"feature\": \"Implement button hover effects\", \"checked\": false}, {\"feature\": \"Add a confirmation dialog for button clicks\", \"checked\": false}, {\"feature\": \"Create unified styling for all buttons\", \"checked\": true}, {\"feature\": \"Include accessibility labels for buttons\", \"checked\": false}], \"input_token_count\": 267, \"output_token_count\": 111, \"time_taken\": \"0:00:01.373259\"}",
+        "message_id": "guest03092024094905",
+        "timestamp": "03092024094914",
+        "component_file_name": "simple_cta_component_1725356821",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Can you describe where you want the 'Mouse' button to be placed in the app?\", \"option1\": \"Top of the screen\", \"option2\": \"Bottom of the screen\"}, {\"question 2\": \"What style do you prefer for the 'Mouse' button? (e.g., color, size)\", \"option1\": \"Large and bright color\", \"option2\": \"Small and neutral color\"}], \"input_token_count\": 313, \"output_token_count\": 98, \"time_taken\": \"0:00:01.472923\"}",
         "message_id": "guest03092024094905",
