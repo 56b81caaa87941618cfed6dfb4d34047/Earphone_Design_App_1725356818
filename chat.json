@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "user",
+        "content": "add a button with text Mouse",
+        "message_id": "guest03092024094905",
+        "timestamp": "03092024094906",
+        "component_file_name": "simple_cta_component_1725356821",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a Free button for easy access\", \"checked\": true}, {\"feature\": \"Implement button hover effects\", \"checked\": false}, {\"feature\": \"Include tooltips on buttons for guidance\", \"checked\": false}, {\"feature\": \"Add animations when buttons are clicked\", \"checked\": false}, {\"feature\": \"Create a color palette for buttons\", \"checked\": true}], \"input_token_count\": 244, \"output_token_count\": 91, \"time_taken\": \"0:00:01.375946\"}",
         "message_id": "guest03092024094746",
